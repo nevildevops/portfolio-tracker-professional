@@ -1,5 +1,9 @@
 # Portfolio Tracker — Professional Charts (Excel + Python)
 
+<img width="512" height="269" alt="images:charts_preview2" src="https://github.com/user-attachments/assets/a0d0be59-bd48-49c9-9845-82b79d9ac7b9" />
+
+<img width="513" height="271" alt="images:charts_preview1" src="https://github.com/user-attachments/assets/ec580f97-37c3-4ed7-8e67-01bbf6367fd9" />
+
 Automated a portfolio analytics workbook using Python (`openpyxl`) and Excel.
 Generates two professional charts on a dedicated **Charts** sheet:
 
